@@ -1,0 +1,13 @@
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.exe
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.deps.json
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.json
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.dev.json
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.dll
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\bin\Debug\netcoreapp3.1\functions.pdb
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.csprojAssemblyReference.cache
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfo.cs
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.dll
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.pdb
+C:\Users\steve\Documents\learning\cs_stuff\french_udemy\functions\obj\Debug\netcoreapp3.1\functions.genruntimeconfig.cache
